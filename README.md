@@ -1,1 +1,1 @@
-My second readme
+My edited readme for alx day zero.
